@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "息を切らして",
+  "base_artist": "Sunny Girl",
+  "createdAt": "2026-03-10T16:58:37.980012Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "息を切らして",
+      "artist": "Sunny Girl",
+      "has_synced": false,
+      "path": "select/pl_01_息を切らして_Sunny_Girl.txt"
+    }
+  ]
+}
